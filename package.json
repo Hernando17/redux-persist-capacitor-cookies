@@ -1,0 +1,29 @@
+{
+    "name": "redux-persist-capacitor-cookies",
+    "version": "1.0.0",
+    "description": "Redux Persist Capacitor Cookies",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Hernando17/redux-persist-capacitor-cookies"
+    },
+    "keywords": [
+        "redux",
+        "redux-persist",
+        "capacitor",
+        "redux-persist-capacitor-cookies",
+        "ionic"
+    ],
+    "author": "Hernando",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Hernando17/redux-persist-capacitor-cookies/issues"
+    },
+    "homepage": "https://github.com/Hernando17/redux-persist-capacitor-cookies#readme",
+    "dependencies": {
+        "@capacitor/core": "^6.1.2"
+    }
+}
