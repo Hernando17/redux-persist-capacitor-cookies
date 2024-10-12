@@ -15,15 +15,4 @@ const tokenCookiesPersistConfig = {
     key: 'tokenCookies',
     storage: persistCapacitorCookies,
 }
-
-const rootReducer = combineReducers({
-    tokenCookies: persistReducer(tokenCookiesPersistConfig, tokenCookiesSlice),
-})
-
-export const store = configureStore({
-    reducer: rootReducer,
-})
-
-setupListeners(store.dispatch)
-export const persistor = persistStore(store)
 ```
