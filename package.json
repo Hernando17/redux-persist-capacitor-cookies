@@ -1,6 +1,6 @@
 {
     "name": "redux-persist-capacitor-cookies",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Redux Persist Capacitor Cookies",
     "main": "index.js",
     "scripts": {
@@ -18,7 +18,7 @@
         "ionic"
     ],
     "author": "Hernando",
-    "license": "ISC",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/Hernando17/redux-persist-capacitor-cookies/issues"
     },
